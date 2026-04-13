@@ -38,9 +38,6 @@ deep-learning-training-design-space/
 ## 📋 Assignment Details
 
 - **Course:** CMPE-258 Deep Learning
-- **Due:** Sunday, April 12, 2026 by 11:59 PM
-- **Points:** 100
-- **Submission:** Website URL (this GitHub repo)
 
 Each Colab notebook has been:
 1. Copied to personal Google Drive with world-sharing permissions
