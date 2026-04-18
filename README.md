@@ -28,7 +28,7 @@ deep-learning-training-design-space/
 |---|-------|---------------|---------------|
 | 1 | Classification Metrics: Fundamentals to Production | [Open Colab](https://colab.research.google.com/drive/1zTwboy4TXYqVNDbO3HNiitPs3zPh53nL?usp=sharing) | [▶️ Watch Video](https://drive.google.com/file/d/1MrQ3SLQEtpat5edSsw1BJwvPaYkSQc4B/view?usp=sharing) |
 | 2 | Hyperparameter Tuning for Deep Learning | [Open Colab](https://colab.research.google.com/drive/1F9AFmbfsBegPRQpOFIPfwxFMEltyRvi5?usp=sharing) | [▶️ Watch Video](https://drive.google.com/file/d/13pfS5L_tkZ1aTY1kQfmcnc-uhlYbRaY2/view?usp=sharing) |
-| 3 | Optimizers for Deep Learning | [Open Colab](colabs/final_optimizers_deep_learning_tutorial.ipynb) | [▶️ Watch Video](PASTE_YOUTUBE_LINK_HERE_VIDEO_3) |
+| 3 | Optimizers for Deep Learning | [Open Colab](https://colab.research.google.com/drive/1714vS4WOBJut6ksSsKcfjPd-BP_CdIzp?usp=sharing) | [▶️ Watch Video](PASTE_YOUTUBE_LINK_HERE_VIDEO_3) |
 | 4 | Activation Functions for Deep Learning | [Open Colab](colabs/final_activation_functions_tutorial.ipynb) | [▶️ Watch Video](PASTE_YOUTUBE_LINK_HERE_VIDEO_4) |
 | 5 | Convolutional Neural Networks from First Principles | [Open Colab](colabs/final_cnn_fundamentals_tutorial.ipynb) | [▶️ Watch Video](PASTE_YOUTUBE_LINK_HERE_VIDEO_5) |
 | 6 | Modern CNN Architectures & Transfer Learning | [Open Colab](colabs/final_modern_cnn_architectures_tutorial.ipynb) | [▶️ Watch Video](PASTE_YOUTUBE_LINK_HERE_VIDEO_6) |
