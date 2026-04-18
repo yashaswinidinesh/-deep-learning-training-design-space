@@ -26,7 +26,7 @@ deep-learning-training-design-space/
 
 | # | Topic | Colab Notebook | YouTube Video |
 |---|-------|---------------|---------------|
-| 1 | Classification Metrics: Fundamentals to Production | [Open Colab](colabs/final_important_classification_metrics_tutorial.ipynb) | [▶️ Watch Video](PASTE_YOUTUBE_LINK_HERE_VIDEO_1) |
+| 1 | Classification Metrics: Fundamentals to Production | [Open Colab](colabs/final_important_classification_metrics_tutorial.ipynb) | [▶️ Watch Video](https://drive.google.com/file/d/1MrQ3SLQEtpat5edSsw1BJwvPaYkSQc4B/view?usp=sharing) |
 | 2 | Hyperparameter Tuning for Deep Learning | [Open Colab](colabs/final_hyperparameter_tuning_tutorial.ipynb) | [▶️ Watch Video](PASTE_YOUTUBE_LINK_HERE_VIDEO_2) |
 | 3 | Optimizers for Deep Learning | [Open Colab](colabs/final_optimizers_deep_learning_tutorial.ipynb) | [▶️ Watch Video](PASTE_YOUTUBE_LINK_HERE_VIDEO_3) |
 | 4 | Activation Functions for Deep Learning | [Open Colab](colabs/final_activation_functions_tutorial.ipynb) | [▶️ Watch Video](PASTE_YOUTUBE_LINK_HERE_VIDEO_4) |
