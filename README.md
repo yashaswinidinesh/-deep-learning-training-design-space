@@ -31,7 +31,7 @@ deep-learning-training-design-space/
 | 3 | Optimizers for Deep Learning | [Open Colab](https://colab.research.google.com/drive/1714vS4WOBJut6ksSsKcfjPd-BP_CdIzp?usp=sharing) | [▶️ Watch Video](https://drive.google.com/file/d/1wBQ6FARW6Cc0w3oUIohepPNQCyNm9OCP/view?usp=sharing) |
 | 4 | Activation Functions for Deep Learning | [Open Colab](https://colab.research.google.com/drive/17iQCbJpOPnTzYzcTDZheeoyxuwJEB6G6?usp=sharing) | [▶️ Watch Video](https://drive.google.com/file/d/12qwdpAbgXWu6Nbm5678VtbEiFVEUigjM/view?usp=sharing) |
 | 5 | Convolutional Neural Networks from First Principles | [Open Colab](https://colab.research.google.com/drive/1KfTTBO-EoaRdvm1uxrzYtAEu-H4P-g4d?usp=sharing) | [▶️ Watch Video](https://drive.google.com/file/d/10-feC9T6MCBQijSVMFJJM2h4vIheGA_u/view?usp=sharing) |
-| 6 | Modern CNN Architectures & Transfer Learning | [Open Colab](colabs/final_modern_cnn_architectures_tutorial.ipynb) | [▶️ Watch Video](PASTE_YOUTUBE_LINK_HERE_VIDEO_6) |
+| 6 | Modern CNN Architectures & Transfer Learning | [Open Colab](https://colab.research.google.com/drive/1apIxzZI0DWotqoDYhE8SqLBjNgYcPW2h?usp=sharing) | [▶️ Watch Video](https://drive.google.com/file/d/1xVqc4numRcCCRH3SoGWzxRN3_XluXDOq/view?usp=sharing) |
 
 ---
 
